@@ -1,0 +1,135 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.main {
+    font-family: Bree serif;
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: auto;
+    padding: 20px 15px 15px 15px;
+    text-align: left;
+    color: white;
+}
+
+.card1 {
+    background-color: #e6f6ff;
+    border-radius: 15px;
+}
+
+.card1-right {
+    padding: 20px 30px 20px 23px;
+}
+
+.image1 {
+    height: 40vh;
+    width: 21.5vw;
+    background-size: cover;
+}
+
+.main-head {
+    font-size: 25px;
+    margin: 5px auto 5px 2px;
+}
+
+.main-card-head {
+    font-size: 17px;
+    color: #183b56;
+    margin: 13px auto 10px 0px;
+    font-weight: 700;
+}
+
+.main-card-head2 {
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+.main-card-head3 {
+    color: #9aa5b1;
+    font-weight: 600px;
+    font-size: 12px;
+    margin: 2px auto 16px 0px;
+}
+
+.b {
+    font-family: Roboto;
+    font-weight: lighter;
+    font-size: 13px;
+    border-width:0px;
+    margin:0px 5px 7px auto;
+}
+
+.image2 {
+    height: 22vh;
+    width: 17vw;
+    background-size: cover;
+}
+
+.card2 {
+    background-color: ##1b1b1b;
+    border-radius: 15px;
+}
+
+.card2-right {
+    padding: 2px 30px 20px 23px;
+}
+
+.sub-head {
+    font-size: 22px;
+    margin: 5px auto 8px 2px;
+}
+
+.card2-head {
+    font-size: 15px;
+    color: #ffffff;
+    margin: 2px auto 10px 0px;
+    font-weight: 00;
+}
+
+.card2-para {
+    color: #9aa5b1;
+    font-weight: 400;
+    font-size: 12px;
+    margin: 1px auto 1px 0px;
+}
+
+.card2-by {
+    color: #9aa5b1;
+    font-weight: 600px;
+    font-size: 10px;
+    margin: 0px auto 16px 0px;
+}
+
+.abdulkalam-main {
+    font-family: Bree serif;
+    background-color: #1b1b1b;
+    background-size: cover;
+    height: auto;
+    padding: 20px 15px 15px 15px;
+    text-align: center;
+    color: white;
+}
+
+.image3 {
+    height: 50vh;
+    width: 27vw;
+}
+.page-head{
+    font-size: 20px;
+    color: white;
+    margin: 10px auto 10px 0px;
+    font-weight: 550;
+}
+.page-head2{
+    color: #9aa5b1;
+    font-weight: 600px;
+    font-size: 12px;
+    margin: 2px auto 10px 0px;
+}
+.page-para{
+    color: #9aa5b1;
+    font-weight: 400;
+    font-size: 10px;
+    margin: 1px auto 1px 0px;
+    text-align:left;
+    margin:0px 10px 10px 10px;
+    padding:0px 10px 0px 10px
+}
